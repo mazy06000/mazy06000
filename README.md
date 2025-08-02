@@ -1,6 +1,6 @@
 # Welcome! 👋
 
-Hello! I'm **M. Mazy**, an AI Engineer with over 4 years of experience in software development and data science. I am passionate about leveraging technology to address complex challenges in various domains, including healthcare 🏥, environmental sustainability 🌍, and Islamic research 📚.
+Hello! I'm **Mazy**, an AI Engineer with over 5 years of experience in software development and data science. I am passionate about leveraging technology to address complex challenges in various domains, including healthcare 🏥, environmental sustainability 🌍, and Islamic research 📚.
 
 ## Current Projects 🚀
 
@@ -17,5 +17,3 @@ Beyond my professional endeavors, I am a strong advocate for Bitcoin and decentr
 ## Connect with Me 🌐
 
 - **GitHub**: [mazy06000](https://github.com/mazy06000)
-
-Feel free to explore my repositories and reach out if you have any questions or collaboration ideas!
